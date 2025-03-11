@@ -1,0 +1,5 @@
+[package]
+name = "steamfetch"
+version = "0.1.0"
+edition = "2021"
+description = "neofetch for Steam - Display your Steam stats in terminal"
