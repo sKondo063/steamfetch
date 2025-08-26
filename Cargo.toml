@@ -10,3 +10,4 @@ description = "neofetch for Steam - Display your Steam stats in terminal"
 # drop an unused branch
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# drop an unused branch
