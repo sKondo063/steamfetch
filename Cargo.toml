@@ -20,3 +20,4 @@ description = "neofetch for Steam - Display your Steam stats in terminal"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # guard against empty input
+# guard against empty input
